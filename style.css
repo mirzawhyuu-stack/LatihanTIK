@@ -1,20 +1,22 @@
 body {
     background-color: #c1c1bd;
-    font-family: 'Times New Roman', Times, serif;
-    color: #0d0dd6; /*biru gelap*/
+    font-family: 'Segoe UI', Times, serif;
+    color: #4a4ad3; /*biru gelap*/
 }
 
 .kartu-profil {
     width: 300px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #f0f0f0;
+    background-color: #d8d3ea;
     border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgb(22, 67, 158);
     text-align: center;
 }
+
 .kartu-profil img {
-   width: 170px;
+   width: 140px;
    height: 170px;
    border-radius: 50%;
 }
+
